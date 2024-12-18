@@ -1,0 +1,14 @@
+name: gamethepy
+channels:
+  - conda-forge
+dependencies:
+  - dill
+  - python
+  - pip
+  #Test
+  - pytest
+  #SubPackages
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
